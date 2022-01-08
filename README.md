@@ -6,7 +6,7 @@ I implemented these algos as a requirement for one of my courses at CMU.
 
 Here is the Index of the algorithms that I have implemented:
 
-1. Decision Stumps (precursor to Decision Trees)
+[1. Decision Stumps (precursor to Decision Trees)](/DecisionStump/README.md)
 
 ##
 
